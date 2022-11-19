@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Im just boredd</h3>
+<h3 align="center">Im just bored</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-valp&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-valp" /> </p>
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PinK#2692" height="30" width="40" />PinK#2692</a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PinK#2692" height="30" width="40" />PinK#2692</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
