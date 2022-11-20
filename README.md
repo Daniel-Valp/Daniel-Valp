@@ -10,7 +10,7 @@
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PinK#2692" height="30" width="40" />PinK#2692</a>
 </p>
 
-<p align="right"> <img src="![AcrobaticVapidHylaeosaurus-size_restricted](https://user-images.githubusercontent.com/107590165/202876741-41523f7b-fc49-4e2e-85e8-c0a794921fe0.gif)
+<p align="right"> <img src="https://user-images.githubusercontent.com/107590165/202876741-41523f7b-fc49-4e2e-85e8-c0a794921fe0.gif)
 " alt="daniel-valp" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
