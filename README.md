@@ -9,7 +9,7 @@
 <p align="left">
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PinK#2692" height="30" width="40" />PinK#2692</a>
 </p>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/107590165/202902424-9f081028-a39c-4415-82d7-1dbf93ef6568.gif")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/107590165/202902424-9f081028-a39c-4415-82d7-1dbf93ef6568.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
