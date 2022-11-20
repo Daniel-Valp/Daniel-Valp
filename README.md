@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Im just bored</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-valp&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-valp" /> </p>
+<p><img align="left" src="https://komarev.com/ghpvc/?username=daniel-valp&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-valp" /></p>
 
 - 🌱 I’m currently learning **coding**
 
