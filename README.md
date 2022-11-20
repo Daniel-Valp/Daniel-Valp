@@ -3,9 +3,10 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=daniel-valp&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-valp" /></p>
 
-- 🌱 I’m currently learning **coding**
-- 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/107590165/202902424-9f081028-a39c-4415-82d7-1dbf93ef6568.gif">
+
+
+- 🌱 I’m currently learning **coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
